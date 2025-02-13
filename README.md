@@ -1,4 +1,4 @@
-**Deployment:** [View Live Project]([https://your-deployment-link.com](https://sweet-kulfi-0eaaba.netlify.app/)
+**Deployment:** [View Live Project](https://sweet-kulfi-0eaaba.netlify.app/)
 
 ## Project Overview
 A responsive web application for managing products and inventory. Built with React.js and styled using Tailwind CSS. Users can view, add products to the cart, adjust quantities, and see the total price of items in the cart.
